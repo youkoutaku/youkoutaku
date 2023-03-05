@@ -1,4 +1,4 @@
-### Hi there, I'm Youkoutaku.👋
+### Hi there, I'm Youkoutaku 👋
 
 I'm a learning student in a Japanese university from China. My major is Mechanical Systems Engineering. And I'm interested in working with embedded development & AI algorithms & Robot & computer vision, and want to try new things. I am keen to share some of my learning notes and learn from those who are outstanding.
 
