@@ -9,11 +9,11 @@
 - 🔭 I’m currently working on my graduation research.
 - 🌱 I’m currently learning Web Development & Deeplearning, and so on.
 - 😄 Hobby: 
-  - 💪 Training or running 2-3 times a week
+  - 💪 Training or running 2~3 times a week
   - 🏀 Basketball once a week
-  - 📚 Reading with Kindle
-  - 🎮 Video games on Nintendo Switch
-  - 🎧 Music (J-pop, anime songs,etc.)
+  - 📚 Reading with Kindle (Biography, History, Philosophy, Time Management, Study Skills, etc.)
+  - 🎮 Video games on Nintendo Switch (The Legend of Zelda: Breath of the Wild, Fire Emblem, Monster Hunter Rise, etc.)
+  - 🎧 Music (J-pop, Anime songs, Symphony, etc.)
 
 ### How to reach me
 (CN/JP/EN)
