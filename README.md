@@ -33,7 +33,7 @@
 - Markdown
 - VScode
 - Notion
-- obsidian
+- Obsidian
 - ...
 
 ### Major Courses of College
