@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 ---
 ### About me
 -  Young/ You Koutaku(JP)/ Yang Guangze(CN) 
@@ -18,10 +19,10 @@
 - E-mail: yangguangze1999@outlook.com
 - Twitter: [YouKoutaku](https://mobile.twitter.com/You_Koutaku)
 - Dsicord:YouKoutaku#1653
-
+- CN/JP/EN
+ 
 ---
 ### Languages and Tools
-- CN/JP/EN (keep fighting)
 - C
 - Python
 - Java
