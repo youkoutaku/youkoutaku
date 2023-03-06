@@ -25,8 +25,8 @@
 ### Languages and Tools
 - C
 - Python
-- Java
 - SOLIDWORKS
+- Java
 - Arduino
 - HTML5
 - CSS3
