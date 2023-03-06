@@ -28,8 +28,8 @@
 - Java
 - SOLIDWORKS
 - Arduino
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Markdown
 - VScode
 - Notion
