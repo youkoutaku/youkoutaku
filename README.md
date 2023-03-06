@@ -36,7 +36,7 @@
 - obsidian
 - ...
 
-### Knowledge
+### Major Courses of College
 - Math
   - Calculus
   - Differential Equation
@@ -46,8 +46,8 @@
   - Fourier Transform / Laplace Transform / Z Transform
   - Discrete Mathematics
 - Mechanical
-  - Dynamics of machinery
-  - Mechanics of materials
+  - Dynamics of Machinery
+  - Mechanics of Materials
   - Fluid Mechanics
   - Thermodynamics
   - Control Engineering
