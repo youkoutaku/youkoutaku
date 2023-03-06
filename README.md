@@ -57,7 +57,6 @@
 - Computer Science
   - C (programming language)
   - Algorithm and Data structure
-  - Java (programming language)
   - Artificial Intelligence
   - Machine Learning
   - Digital Signal Processing
