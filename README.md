@@ -19,7 +19,7 @@
 - E-mail: yangguangze1999@outlook.com
 - Twitter: [YouKoutaku](https://mobile.twitter.com/You_Koutaku)
 - Dsicord:YouKoutaku#1653
-- CN/JP/EN
+(CN/JP/EN)
  
 ---
 ### Languages and Tools
