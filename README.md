@@ -35,3 +35,32 @@
 - Notion
 - obsidian
 - ...
+
+### Knowledge
+- Math
+  - Calculus
+  - Differential Equation
+  - Linear Algebra
+  - Complex Analysis
+  - Vector Calculus
+  - Fourier Transform / Laplace Transform / Z Transform
+  - Discrete Mathematics
+- Mechanical
+  - Dynamics of machinery
+  - Mechanics of materials
+  - Fluid Mechanics
+  - Thermodynamics
+  - Control Engineering
+  - CAD/CAE
+  - Mechatronics
+  - Robotics
+- Computer Science
+  - C (programming language)
+  - Algorithm and Data structure
+  - Java (programming language)
+  - Artificial Intelligence
+  - Machine Learning
+  - Digital Signal Processing
+  - Computer Vision
+  - Computer Graphics
+  -   
