@@ -4,14 +4,14 @@
 ### About me
 -  Young/ You Koutaku(JP)/ Yang Guangze(CN) 
 - 🎓 I'm a learning student in [Ibaraki University](https://www.ibaraki.ac.jp/).  My major is [Mechanical Systems Engineering→](http://nyushi.eng.ibaraki.ac.jp/department_intro/#p001)
-- 🔥 Interested in working with embedded development & AI algorithms & Robot & Computer Vision, and want to try new things. 
+- 🔥 Interested in working with Embedded Development & AI algorithms & Robot & Computer Vision, and want to try new things. 
 - ⭐ I'm keen to share some of my learning notes and learn from those who are outstanding.
 - 🔭 I’m currently working on my graduation research.
 - 🌱 I’m currently learning Web Development & Deeplearning, and so on.
 - 😄 Hobby: 
   - 💪 Training or running 2-3 times a week
   - 🏀 Basketball once a week
-  - 📚 Reading with kindle
+  - 📚 Reading with Kindle
   - 🎮 Video games on Nintendo Switch
   - 🎧 Music (J-pop, anime songs,etc.)
 
