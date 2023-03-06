@@ -16,10 +16,10 @@
   - 🎧 Music (J-pop, anime songs,etc.)
 
 ### How to reach me
+(CN/JP/EN)
 - E-mail: yangguangze1999@outlook.com
 - Twitter: [YouKoutaku](https://mobile.twitter.com/You_Koutaku)
 - Dsicord:YouKoutaku#1653
-(CN/JP/EN)
  
 ---
 ### Languages and Tools
