@@ -6,13 +6,13 @@ I'm a learning student in a Japanese university from China. My major is Mechanic
 - 🔭 I’m currently working on my graduation research.
 - 🌱 I’m currently learning Web Development & Deeplearning, and so on.(春休み)
 - 💬 If you Ask me about studying in Japan.
-- 📫 How to reach me: yangguangze1999@outlook.com
+- 📧 How to reach me: yangguangze1999@outlook.com
 - 😄 Hobby: 
-  - : muscle training or running 2-3 times a week
-  - basketball once a week
-  - reading with kindle
-  - video games on Nintendo Switch
-  - music (J-pop, anime songs,etc.)
+  - 💪 training or running 2-3 times a week
+  - 🏀 basketball once a week
+  - 📚 reading with kindle
+  - 🎮 video games on Nintendo Switch
+  - 🎧 music (J-pop, anime songs,etc.)
 
 ---
 ### knowledge
