@@ -7,8 +7,6 @@
 - ⭐ I'm keen to share some of my learning notes and learn from those who are outstanding.
 - 🔭 I’m currently working on my graduation research.
 - 🌱 I’m currently learning Web Development & Deeplearning, and so on.
-- 💬 If you Ask me about studying in Japan.
-- 📧 How to reach me: yangguangze1999@outlook.com
 - 😄 Hobby: 
   - 💪 Training or running 2-3 times a week
   - 🏀 Basketball once a week
@@ -16,8 +14,14 @@
   - 🎮 Video games on Nintendo Switch
   - 🎧 Music (J-pop, anime songs,etc.)
 
+### How to reach me
+- E-mail: yangguangze1999@outlook.com
+- Twitter: [YouKoutaku](https://mobile.twitter.com/You_Koutaku)
+- Dsicord:YouKoutaku#1653
+
 ---
-### Languages
+### Languages and Tools
+- CN/JP/EN (keep fighting)
 - C
 - Python
 - Java
@@ -26,11 +30,6 @@
 - HTML
 - CSS
 - Markdown
-- CN/JP/EN (keep fighting)
-- ...
-
-### Tools
-- GitHub
 - VScode
 - Notion
 - obsidian
