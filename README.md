@@ -30,6 +30,7 @@
 - Arduino
 - HTML 5
 - CSS 3
+- JavaScript
 - Markdown
 - VScode
 - Notion
