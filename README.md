@@ -2,7 +2,7 @@
 
 ---
 ### About me
--  Young/ You Koutaku(JP)/ Guangze Yang(CN) 
+-  George Young/ You Koutaku(JP)/ Guangze Yang(CN) 
 - 🎓 I'm a learning student in [Ibaraki University](https://www.ibaraki.ac.jp/).  My major is [Mechanical Systems Engineering→](http://nyushi.eng.ibaraki.ac.jp/department_intro/#p001)
 - 🔥 Interested in working with Embedded Development & AI algorithms & Robot & Computer Vision, and want to try new things. 
 - ⭐ I'm keen to share some of my learning notes and learn from those who are outstanding.
