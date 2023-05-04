@@ -4,16 +4,16 @@
 ### About me
 -  George Young/ You Koutaku(JP)/ Guangze Yang(CN) 
 - 🎓 I'm a learning student in [Ibaraki University](https://www.ibaraki.ac.jp/).  My major is [Mechanical Systems Engineering→](http://nyushi.eng.ibaraki.ac.jp/department_intro/#p001)
-- 🔥 Interested in working with Embedded Development & AI algorithms & Robot & Computer Vision, and want to try new things. 
+- 🔥 Interested in working with Control System & Embedded Development & AI & Robot & Computer Vision, and want to try new things. 
 - ⭐ I'm keen to share some of my learning notes and learn from those who are outstanding.
-- 🔭 I’m currently working on my graduation research.
-- 🌱 I’m currently learning Web Development & Deeplearning, and so on.
+- 🔭 I’m currently working on my graduation research about multi-agent system.
+- 🌱 I’m currently learning Formation Control and other Control theory.
 - 😄 Hobby: 
   - 💪 Training or running 2~3 times a week
   - 🏀 Basketball once a week
   - 📚 Reading with Kindle (Biography, History, Philosophy, Time Management, Study Skills, etc.)
   - 🎮 Video games on Nintendo Switch (The Legend of Zelda: Breath of the Wild, Fire Emblem, Monster Hunter Rise, etc.)
-  - 🎧 Music (J-pop, Anime songs, Symphony, etc.)
+  - 🎧 Music
 
 ### How to reach me
 (CN/JP/EN)
@@ -27,12 +27,12 @@
 - Python
 - SOLIDWORKS
 - Java
+- MATLAB
 - Arduino
-- HTML 5
-- CSS 3
+- HTML5
+- CSS3
 - JavaScript
+- LaTex 
 - Markdown
 - VScode
-- Notion
-- Obsidian
 - ...
