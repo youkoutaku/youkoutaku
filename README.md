@@ -29,10 +29,8 @@
 - Java
 - MATLAB
 - Arduino
-- HTML5
-- CSS3
+- HTML5&CSS3
 - JavaScript
 - LaTex 
 - Markdown
-- VScode
 - ...
