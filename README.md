@@ -16,10 +16,11 @@
   - 🎧 Music
 
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku" />
 </a>
+
 <a href="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=youkoutaku&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youkoutaku&show_icons=true" />
 </a>
 
 ### How to reach me
