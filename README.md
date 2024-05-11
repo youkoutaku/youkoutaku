@@ -15,10 +15,14 @@
   - 🎮 Video games on Nintendo Switch (The Legend of Zelda: Breath of the Wild, Fire Emblem, Monster Hunter Rise, etc.)
   - 🎧 Music
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku)](https://github.com/anuraghazra/github-readme-stats)
+% [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youkoutaku&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=youkoutaku&show_icons=true" />
+</a>
+
+<a href="">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=youkoutaku&show_icons=true" />
 </a>
 
 ### How to reach me
