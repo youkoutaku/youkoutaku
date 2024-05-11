@@ -15,6 +15,9 @@
   - 🎮 Video games on Nintendo Switch (The Legend of Zelda: Breath of the Wild, Fire Emblem, Monster Hunter Rise, etc.)
   - 🎧 Music
 
+![](https://youkoutaku.goatcounter.com/counter//.png)
+
+
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&hide=html,css" />
 </a>
