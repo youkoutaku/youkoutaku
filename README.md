@@ -18,7 +18,7 @@
 % [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=youkoutaku&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku" />
 </a>
 
 <a href="">
