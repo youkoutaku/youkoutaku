@@ -15,7 +15,7 @@
   - 🎮 Video games on Nintendo Switch (The Legend of Zelda: Breath of the Wild, Fire Emblem, Monster Hunter Rise, etc.)
   - 🎧 Music
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How to reach me
 (CN/JP/EN)
