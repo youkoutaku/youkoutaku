@@ -16,7 +16,7 @@
   - 🎧 Music
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&hide=html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&hide=html, css" />
 </a>
 
 <a href="">
