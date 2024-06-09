@@ -2,12 +2,12 @@
 
 ---
 ### About me
--  George Young/ You Koutaku(JP)/ Guangze Yang(CN) 
-- 🎓 I'm a learning student in [Ibaraki University](https://www.ibaraki.ac.jp/).  My major is [Mechanical Systems Engineering→](http://nyushi.eng.ibaraki.ac.jp/department_intro/#p001)
-- 🔥 Interested in working with Control System & Embedded Development & AI & Robot & Computer Vision, and want to try new things. 
+-  EN: Young / JP: 楊広沢(YouKoutaku) / CN: 杨广泽(Guang-Ze Yang)
+- 🎓 I'm a learning student at [Ibaraki University](https://www.ibaraki.ac.jp/).  My major is [Mechanical Systems Engineering→](http://nyushi.eng.ibaraki.ac.jp/department_intro/#p001)
+- 🔥 Interested in working with Control Systems, robotics, AI and want to try new things. 
 - ⭐ I'm keen to share some of my learning notes and learn from those who are outstanding.
-- 🔭 I’m currently working on my graduation research about multi-agent system.
-- 🌱 I’m currently learning Formation Control and other Control theory.
+- 🔭 I’m currently working on my master's research about Collision-free problems for multi-agent systems.
+- 🌱 I’m currently learning MPC and other Control theory.
 - 😄 Hobby: 
   - 💪 Training or running 2~3 times a week
   - 🏀 Basketball once a week
