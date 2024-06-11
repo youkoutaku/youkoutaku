@@ -7,7 +7,7 @@
 - 🔥 Interested in working with Control Systems, robotics, AI and want to try new things. 
 - ⭐ I'm keen to share some of my learning notes and learn from those who are outstanding.
 - 🔭 I’m currently working on my master's research about Collision-free problems for multi-agent systems.
-- 🌱 I’m currently learning MPC and other Control theory.
+- 🌱 I’m currently learning MPC and RL.
 - 😄 Hobby: 
   - 💪 Training or running 2~3 times a week
   - 🏀 Basketball once a week
@@ -26,7 +26,8 @@
 ### How to reach me
 (CN/JP/EN)
 - E-mail: yangguangze1999@outlook.com
-- Twitter: [YouKoutaku](https://mobile.twitter.com/You_Koutaku)
+- X: [YouKoutaku](https://mobile.twitter.com/You_Koutaku)
+- Linkedin: [youkoutaku](https://www.linkedin.com/in/youkoutaku/)
 - Dsicord:YouKoutaku#1653
  
 ---
