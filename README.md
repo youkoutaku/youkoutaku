@@ -27,15 +27,3 @@
 - Dsicord:YouKoutaku#1653
  
 ---
-### Languages and Tools
-- C
-- Python
-- SOLIDWORKS
-- Java
-- MATLAB
-- Arduino
-- HTML5&CSS3
-- JavaScript
-- LaTex 
-- Markdown
-- ...
