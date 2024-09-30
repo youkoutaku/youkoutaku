@@ -19,10 +19,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&hide=html,css" />
 </a>
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youkoutaku&show_icons=true" />
-</a>
-
 ### How to reach me
 (CN/JP/EN)
 - E-mail: yangguangze1999@outlook.com
