@@ -17,9 +17,13 @@
   - 🎮 Video games(The Legend of Zelda: Breath of the Wild, Fire Emblem, Monster Hunter Rise, ...)
   - 🎧 Music (J-pop, R&B, ...)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youkoutaku&count_private=true&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youkoutaku&count_private=true&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&hide=html)](https://github.com/anuraghazra/github-readme-stats" alt="Top Langs" />
+</p>
 
 ## 📬 Contact
 - [Github](https://github.com/youkoutaku)
