@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=youkoutaku&count_private=true&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&layout=donut-vertical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📬 Contact
 - [Github](https://github.com/youkoutaku)
