@@ -18,9 +18,11 @@
   - 🎧 Music (J-pop, R&B, ...)
 
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&hide=html,css" />
-</a>
+<div align="center">
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&hide=html,css" />
+  </a>
+</div>
 
 ## 📬 Contact
 - [Github](https://github.com/youkoutaku)
