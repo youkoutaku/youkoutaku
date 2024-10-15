@@ -18,10 +18,15 @@
   - 🎧 Music (J-pop, R&B, ...)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youkoutaku&count_private=true&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=youkoutaku&count_private=true&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+   <a href="https://github.com/anuraghazra/convoychat">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&hide=html" /> 
+   </a>
+</p>
+
 
 ## 📬 Contact
 - [X](https://x.com/You_Koutaku)
