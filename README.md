@@ -24,9 +24,8 @@
 </p>
 
 <p align="center">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkoutaku&hide=html" /> 
+     <img align="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku" /> 
 </p>
-
 
 ## 📬 Contact
 - [X](https://x.com/You_Koutaku)
