@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
+
 ### This is [Young!](https://youkoutaku.github.io/)
 - 🌈 Name:
    -  EN: Young
