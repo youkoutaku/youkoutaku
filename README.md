@@ -25,7 +25,7 @@
 
 <p align="center">
    <a href="https://wakatime.com/@YouKoutaku">
-     <img align="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=radical&custom_title=Youkoutaku's_Coding_Stats&disable_animations=1&hide=other,Text"/> 
+     <img align="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=radical&custom_title=Youkoutaku's_Coding_Stats&hide=other,Text"/> 
    </a>
 </p>
 
