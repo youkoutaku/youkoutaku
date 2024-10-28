@@ -20,14 +20,12 @@
   - 🎧 Music (J-pop, R&B, ...)
 
 <p align="center">
-   <a href="https://wakatime.com/@YouKoutaku">
-   <img src="https://github-readme-stats.vercel.app/api?username=youkoutaku&count_private=true&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
-   </a>
+   <img src="https://github-readme-stats.vercel.app/api?username=youkoutaku&count_private=true&show_icons=1&theme=radical&&custom_title=Youkoutaku's_Github_Stats"/>
 </p>
 
 <p align="center">
    <a href="https://wakatime.com/@YouKoutaku">
-     <img align="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=radical&hide=other,Text" href="https://wakatime.com/@YouKoutaku"/> 
+     <img align="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=radical&custom_title=Youkoutaku's_Coding_Stats&disable_animations=1&hide=other,Text"/> 
    </a>
 </p>
 
