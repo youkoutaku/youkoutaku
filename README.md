@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-     <img align="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku" /> 
+     <img align="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=radical" /> 
 </p>
 
 ## 📬 Contact
