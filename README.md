@@ -4,7 +4,7 @@
 
 ### This is [Young!](https://youkoutaku.github.io/)
 - 🌈 Name:
-   -  EN: Young
+   -  EN: Grayson Young
    -  JP: 楊 広沢 (You Koutaku)
    -  CN: 杨 广泽 (Yang Guang-Ze)
 - 🎓 I'm a learning master's student at [Ibaraki University](https://www.ibaraki.ac.jp).  My major is Mechanical Systems Engineering.
