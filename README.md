@@ -8,15 +8,15 @@
    -  JP: 楊 広沢 (You Koutaku)
    -  CN: 杨 广泽 (Yang Guang-Ze)
 - 🎓 I'm a learning master's student at [Ibaraki University](https://www.ibaraki.ac.jp).  My major is Mechanical Systems Engineering.
-- 🔥 Interested in working with Control Systems, Robotics, and Programming.
+- 🔥 Interested in working with Control Systems, Robotics, AI and Programming.
 - ✨ I'm keen to share some of my learning and learn from outstanding ones.
-- 🔭 I’m working on my graduation research about the Collision-free problem for multi-agent systems.
-- 🌱 I’m currently learning Optimal Control and MPC. (2024/06)
+- 🔭 I’m working on my master's research about the Collision-free problem for multi-agent systems.
+- 🌱 I’m currently learning MPC and Nonlinear programming. (2024/12)
 - 😄 Hobby:
-  - 💪 Training or running 2~3 times a week
+  - 💪 Training 2~3 times a week
   - 🏀 Basketball once a week
   - 📚 Reading (Biography, History, Philosophy, Time Management, Study Skills, ...) 
-  - 🎮 Video games(The Legend of Zelda: Breath of the Wild, Fire Emblem, Monster Hunter Rise, ...)
+  - 🎮 Video games(Zelda, Fire Emblem, Monster Hunter, FF7, ...)
   - 🎧 Music (J-pop, R&B, ...)
 
 <p align="center">
