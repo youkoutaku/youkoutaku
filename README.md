@@ -29,8 +29,10 @@ Mechanical Systems Engineering, [Ibaraki University](https://www.ibaraki.ac.jp).
 - Typesetting Language: LaTeX; Markdown
 
 ## Publications
+- **Guang-Ze Yang**, Zi-Jiang Yang, Distributed Robust Time-Varying Formation Control
+ of Multi-Agent Systems under Disturbances. 2024 63rd Annual Conference of SICE. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10805135) [[Code]](https://github.com/youkoutaku/DR-TVFC)
 
-
+---
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=youkoutaku&count_private=true&show_icons=1&theme=radical&&custom_title=Youkoutaku's_Github_Stats"/>
 </p>
@@ -40,12 +42,5 @@ Mechanical Systems Engineering, [Ibaraki University](https://www.ibaraki.ac.jp).
      <img align="Harlok's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=radical&custom_title=Youkoutaku's_Coding_Stats&hide=other,Text"/> 
    </a>
 </p>
-
-## Contact
-- [X](https://x.com/You_Koutaku)
-- [Linkedin](https://www.linkedin.com/in/youkoutaku)
-- [Facebook](https://www.facebook.com/Youkoutaku/)
-- [Instagram](https://www.instagram.com/youkoutaku/)
-- [知乎](https://www.zhihu.com/people/a-a-47-74-28)
 
 ---
