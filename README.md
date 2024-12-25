@@ -32,6 +32,7 @@ Mechanical Systems Engineering, [Ibaraki University](https://www.ibaraki.ac.jp).
 - **G. -Z. Yang** and Z. -J. Yang, "Distributed Robust Time-Varying Formation Control of Multi-Agent Systems Under Disturbances," 2024 SICE Festival with Annual Conference (SICE FES), Kochi City, Japan, 2024, pp. 1000-1005. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10805135) [[Code]](https://github.com/youkoutaku/DR-TVFC)
 
 ---
+
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=youkoutaku&count_private=true&show_icons=1&theme=radical&&custom_title=Youkoutaku's_Github_Stats"/>
 </p>
