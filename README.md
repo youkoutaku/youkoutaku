@@ -1,8 +1,9 @@
-## Hi there 👋
+## This is [Young!](https://youkoutaku.github.io/)
+EN: Grayson Young, Guangze-Yang / JP: 楊 広沢 (よう こうたく, You Koutaku) / 杨 广泽 (Yang Guang-Ze)
 
 [![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
 
-### This is [Young!](https://youkoutaku.github.io/)
+
 - 🌈 Name:
    -  EN: Grayson Young
    -  JP: 楊 広沢 (You Koutaku)
