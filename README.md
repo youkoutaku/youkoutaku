@@ -1,6 +1,8 @@
 ## This is [Guang-Ze Yang](https://youkoutaku.github.io/)
 EN: Grayson Young / JP: 楊 広沢 (よう こうたく, You Koutaku) / 杨 广泽 (Yang Guang-Ze)
 
+[ ![miwashutaro0611](https://komarev.com/ghpvc/?username=youkoutaku&abbreviated=true)
+](https://github.com/youkoutaku)
 [![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
 
 I’m currently learning MPC and Nonlinear programming. (2024/12)
