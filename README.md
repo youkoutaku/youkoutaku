@@ -5,7 +5,7 @@ EN: Grayson Young / JP: 楊 広沢 (よう こうたく, You Koutaku) / 杨 广�
 ](https://github.com/youkoutaku)
 [![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
 
-A master student at Mechanical Systems Engineering, [Ibaraki University](https://www.ibaraki.ac.jp).
+A master's student at Mechanical Systems Engineering, [Ibaraki University](https://www.ibaraki.ac.jp).
 
 I’m currently learning MPC and Nonlinear programming. (2024/12)
 
@@ -15,11 +15,11 @@ I’m currently learning MPC and Nonlinear programming. (2024/12)
 
 ## Research Interests
 - Path planning and motion control
-- Distributed conrtol for multi-agent systems
-- Optimal contorl
+- Distributed control for multi-agent systems
+- Optimal control
 
 ## Skills
-- Naturl Language: Chinese (Native); English(excellent writing and oral communication level); Japanese (JLPT-N1)
+- Natural Language: Chinese (Native); English(excellent writing and oral communication level); Japanese (JLPT-N1)
 - Knowledge
   - Mathematics: Matrix analysis; Graph theory; Statistics; Optimization; Fourier and Laplace analysis
   - Control Theory: Distributed control; Robust control; Optimal control; Kalman filter
@@ -73,3 +73,13 @@ I’m currently learning MPC and Nonlinear programming. (2024/12)
 </p>
 
 ---
+<!--
+- 🔥 Interested in working with Control Systems, Robotics, and Programming.
+- ✨ I'm keen to share some of my learning and learn from outstanding ones.
+- 😄 Hobby:
+  - 💪 Training or running 2~3 times a week
+  - 🏀 Basketball once a week
+  - 📚 Reading (Biography, History, Philosophy, Time Management, Study Skills, ...) 
+  - 🎮 Video games(The Legend of Zelda: Breath of the Wild, Fire Emblem, Monster Hunter Rise, ...)
+  - 🎧 Music (J-pop, R&B, ...)
+--!>
