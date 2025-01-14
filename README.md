@@ -34,14 +34,6 @@ I’m currently learning MPC and Nonlinear programming. (2024/12)
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=youkoutaku&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=youkoutaku" />
-  <img alt="streak" src="streak.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youkoutaku&theme=radical" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youkoutaku" />
   <img alt="profile-details" src="profile-details.svg" />
