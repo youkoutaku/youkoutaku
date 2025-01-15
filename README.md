@@ -1,18 +1,18 @@
-## This is [Guang-Ze Yang](https://youkoutaku.github.io/)
+## Hi! This is Guang-Ze Yang!
 EN: Grayson Young / JP: 楊 広沢 (よう こうたく, You Koutaku) / 杨 广泽 (Yang Guang-Ze)
 
 [![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
 
-A master's student at Mechanical Systems Engineering, [Ibaraki University](https://www.ibaraki.ac.jp).
-
-I’m currently learning MPC and Nonlinear programming. (2024/12)
+- A master's student at Mechanical Systems Engineering, [Ibaraki University](https://www.ibaraki.ac.jp).
+- This is my blog [[Young](https://youkoutaku.github.io/)], where I share my learning journey, thoughts, and experiences in the fields of robotics, control theory, programming, and more.
+- I’m currently ~~learning MPC and Nonlinear programming. (2024/12)~~ job hunting (master’s graduate in 2026). 
 
 ## Education
 - 2024/04-(2026/03): Ibaraki University (Master of Engineering)	
 - 2020/04-2024/03: Ibaraki University (Bachelor of Engineering)
 
 ## Research Interests
-- Path planning and motion control
+- Motion control and path planning 
 - Distributed control for multi-agent systems
 - Optimal control
 
@@ -67,7 +67,6 @@ I’m currently learning MPC and Nonlinear programming. (2024/12)
 ---
 <!--
 - 🔥 Interested in working with Control Systems, Robotics, and Programming.
-- ✨ I'm keen to share some of my learning and learn from outstanding ones.
 - 😄 Hobby:
   - 💪 Training or running 2~3 times a week
   - 🏀 Basketball once a week
