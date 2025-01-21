@@ -4,7 +4,7 @@ EN: Grayson Young / JP: 楊 広沢 (よう こうたく, You Koutaku) / 杨 广�
 [![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
 
 - A master's student at Mechanical Systems Engineering, [Ibaraki University](https://www.ibaraki.ac.jp).
-- This is my blog [[Young](https://youkoutaku.github.io/)], where I share my learning journey, thoughts, and experiences in the fields of robotics, control theory, programming, and more.
+This is my blog [[Young](https://youkoutaku.github.io/)], where I share my learning journey, thoughts, and experiences in robotics, control theory, programming, and more.
 - I’m currently ~~learning MPC and Nonlinear programming. (2024/12)~~ job hunting (master’s graduate in 2026). 
 
 ## Education
@@ -22,7 +22,7 @@ EN: Grayson Young / JP: 楊 広沢 (よう こうたく, You Koutaku) / 杨 广�
   - Mathematics: Matrix analysis; Graph theory; Statistics; Optimization; Fourier and Laplace analysis
   - Control Theory: Distributed control; Robust control; Optimal control; Kalman filter
   - Robotics: Robotic arms; Quadrotor drones; Wheeled mobile robots
-  - AI: Deep learning; Reinforcement learning; LLM
+  - AI: Deep learning; Reinforcement learning
 - Programming Language: Python; MATLAB; C; C++; HTML & CSS; Java; JavaScript
 - Tool: Simulink; ROS1 & ROS2; Docker; Arduino; Solidworks; 
 - Typesetting Language: LaTeX; Markdown
