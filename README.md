@@ -59,7 +59,7 @@ This is my blog [[Young](https://youkoutaku.github.io/)], where I share my learn
 
 <p align="center">
   <a href="https://wakatime.com/@YouKoutaku">
-     <img align="Youkoutaku's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=radical&custom_title=Youkoutaku's_Coding_Stats&hide=Markdown,other,Text&layout=compact&show_icons=true"/> 
+     <img align="Youkoutaku's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=radical&custom_title=Youkoutaku's_Coding_Stats&hide=other,Text&layout=compact&show_icons=true"/> 
   </a>
 </p>
 
