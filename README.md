@@ -55,7 +55,7 @@ This is my blog [[Young](https://youkoutaku.github.io/)], where I share my learn
 </div>
 
 
-## Code time
+## Code time (SINCE OCT 14 2024)
 
 <p align="center">
   <a href="https://wakatime.com/@YouKoutaku">
