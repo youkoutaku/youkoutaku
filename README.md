@@ -1,31 +1,35 @@
-## Hi! This is Guang-Ze Yang!
-EN: Grayson Young / JP: 楊 広沢 (よう こうたく, You Koutaku) / 杨 广泽 (Yang Guang-Ze)
+## 👋 Hi, I'm Guang-Ze Yang!
+
+Also known as EN: Grayson Young, JP: 楊 広沢 (よう こうたく, You Koutaku), CN: 杨 广泽 (Yang Guang-Ze).
 
 [![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
 
-- A master's student at Mechanical Systems Engineering, [Ibaraki University](https://www.ibaraki.ac.jp).
-This is my blog [[Young](https://youkoutaku.github.io/)], where I share my learning journey, thoughts, and experiences in robotics, control theory, programming, and more.
-- I’m currently ~~learning MPC and Nonlinear programming. (2024/12)~~ job hunting (master’s graduate in 2026). 
+- I’m currently a master’s student in Mechanical Systems Engineering at Ibaraki University.
+- I also run a blog — [Young’s Notebook](https://youkoutaku.github.io/) — where I share insights on robotics, control theory, programming, and personal growth.
+- My current focus:
+  - Job hunting (Graduating in March 2026)
+  - learning in MPC, nonlinear programming, and distributed control
 
 ## Education
-- 2024/04-(2026/03): Ibaraki University (Master of Engineering)	
-- 2020/04-2024/03: Ibaraki University (Bachelor of Engineering)
+- 2024.04 – 2026.03: Ibaraki University, M.Eng. in Mechanical Systems Engineering
+- 2020.04 – 2024.03: Ibaraki University, B.Eng. in Mechanical Systems Engineering
 
 ## Research Interests
-- Motion control and path planning 
-- Distributed control for multi-agent systems
-- Optimal control
+- Motion control & path planning
+- Distributed control of multi-robot systems
+- Optimal & robust control
 
 ## Skills
-- Natural Language: Chinese (Native); English(excellent writing and oral communication level); Japanese (JLPT-N1)
-- Knowledge
+- Language
+  - Chinese: Native, English: Excellent (writing & speaking), Japanese: JLPT N1(137/150)
+- Technical Knowledge
   - Mathematics: Matrix analysis; Graph theory; Statistics; Optimization; Fourier and Laplace analysis
   - Control Theory: Distributed control; Robust control; Optimal control; Kalman filter
   - Robotics: Robotic arms; Quadrotor drones; Wheeled mobile robots
   - AI: Deep learning; Reinforcement learning
-- Programming Language: Python; MATLAB; C; C++; HTML & CSS; Java; JavaScript
-- Tool: Simulink; ROS1 & ROS2; Docker; Arduino; Solidworks; 
-- Typesetting Language: LaTeX; Markdown
+- Programming Language: Python, MATLAB, C, C++, Java, JavaScript, HTML & CSS
+- Tools: Simulink, ROS1/ROS2, Docker, Arduino, Solidworks 
+- Documentation: LaTeX, Markdown
 
 ## Publications
 - **G. -Z. Yang** and Z. -J. Yang, "Distributed Robust Time-Varying Formation Control of Multi-Agent Systems Under Disturbances," 2024 SICE Festival with Annual Conference (SICE FES), Kochi City, Japan, 2024, pp. 1000-1005. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10805135) [[Code]](https://github.com/youkoutaku/DR-TVFC)
