@@ -21,7 +21,7 @@ Also known as EN: Grayson Young, JP: 楊 広沢 (よう こうたく, You Koutak
 
 ## Skills
 - Language
-  - Chinese: Native, English: Excellent (writing & speaking), Japanese: JLPT N1(137/150)
+  - Chinese: Native, English: Excellent, Japanese: JLPT N1
 - Technical Knowledge
   - Mathematics: Matrix analysis; Graph theory; Statistics; Optimization; Fourier and Laplace analysis
   - Control Theory: Distributed control; Robust control; Optimal control; Kalman filter
