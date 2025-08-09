@@ -1,38 +1,52 @@
 ## 👋 Hi, I'm Guang-Ze Yang!
 
-Also known as EN: Grayson Young, JP: 楊 広沢 (よう こうたく, You Koutaku), CN: 杨 广泽 (Yang Guang-Ze).
-
 [![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
 
-- I’m currently a master’s student in Mechanical Systems Engineering at Ibaraki University.
-- I also run a blog — [Young’s Notebook](https://youkoutaku.github.io/) — where I share insights on robotics, control theory, programming, and personal growth.
-- My current focus:
-  - Job hunting (Graduating in March 2026)
-  - learning in MPC, nonlinear programming, and distributed control
+I'm a researcher in **Control Theory & Robotics**, currently completing my Master's at Ibaraki University. 
+
+My mission is to build optimal, safety-critical controllers for multi-robot systems.
+
+- I explore my work and insights on my blog, [Young's Notebook](https://youkoutaku.github.io/).
+- I will be starting my full-time career in autonomous multi-robot systems research in **April 2026**.
+- Also known as **Grayson Young** (EN) and **楊 広沢 (よう こうたく)** (JP).
 
 ## Education
 - 2024.04 – 2026.03: Ibaraki University, M.Eng. in Mechanical Systems Engineering
 - 2020.04 – 2024.03: Ibaraki University, B.Eng. in Mechanical Systems Engineering
 
 ## Research Interests
-- Motion control & path planning
 - Distributed control of multi-robot systems
 - Optimal & robust control
+- Motion control & path planning
 
-## Skills
-- Language
-  - Chinese: Native, English: Excellent, Japanese: JLPT N1
-- Technical Knowledge
-  - Mathematics: Matrix analysis; Graph theory; Statistics; Optimization; Fourier and Laplace analysis
-  - Control Theory: Distributed control; Robust control; Optimal control; Kalman filter
-  - Robotics: Robotic arms; Quadrotor drones; Wheeled mobile robots
-  - AI: Deep learning; Reinforcement learning
-- Programming Language: Python, MATLAB, C, C++, Java, JavaScript, HTML & CSS
-- Tools: Simulink, ROS1/ROS2, Docker, Arduino, Solidworks 
+## Skills & Knowledge
+- Programming Language: Python, MATLAB, C/C++, Java, JavaScript, HTML & CSS
+- Tools: Simulink, ROS1/ROS2, Linux, Docker, Git, Arduino, Raspberry Pi, Solidworks 
+- Knowledge
+  - Mathematics: Matrix analysis, Graph theory, Statistics, Optimization, Fourier and Laplace analysis
+  - Control Theory: Optimal control, Distributed control, Robust control, Kalman filter
+  - Robotics: Robotic arms, Quadrotor drones, Wheeled mobile robots
+  - AI/ML: Deep learning, Reinforcement learning
 - Documentation: LaTeX, Markdown
+- Language
+  - Chinese(Native), English(Academic), Japanese(N1)
 
 ## Publications
 - **G. -Z. Yang** and Z. -J. Yang, "Distributed Robust Time-Varying Formation Control of Multi-Agent Systems Under Disturbances," 2024 SICE Festival with Annual Conference (SICE FES), Kochi City, Japan, 2024, pp. 1000-1005. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10805135) [[Code]](https://github.com/youkoutaku/DR-TVFC)
+
+## My Philosophy
+
+"逆境不吐心中苦，顺时不忘来时路。"
+
+> "Stoic in hardship, humble in success."
+
+> "逆境にあっても心の苦しみを吐き出さず、順境にあっても歩んできた道を忘れない。"
+
+"知之者不如好之者，好之者不如樂之者。" — Confucius
+
+> "To know is not as good as to love; to love is not as good as to delight in."
+
+> "ある事柄を『知っている』者は、それを『好きだ』という者には及ばない。『好きだ』という者は、それを『楽しんでいる』者には及ばない。"
 
 ## Activity
 
