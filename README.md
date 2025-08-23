@@ -99,7 +99,6 @@ My mission is to build optimal, safety-critical controllers for multi-robot syst
 <p align="center">
   <a href="https://wakatime.com/@YouKoutaku">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=dark&custom_title=Youkoutaku's_Coding_Stats&hide=other,Text&layout=compact&show_icons=true&cache_bust=1#gh-dark-mode-only" alt="WakaTime Stats Dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&custom_title=Youkoutaku's_Coding_Stats&hide=other,Text&layout=compact&show_icons=true&cache_bust=1#gh-light-mode-only" alt="WakaTime Stats Light"/>
   </a>
 </p>
 
