@@ -1,6 +1,27 @@
 ## 👋 Hi, I'm Guang-Ze Yang!
 
-[![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
+<p align="left">
+  <a href="www.linkedin.com/in/youkoutaku">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://scholar.google.co.jp/citations?hl=en&user=8JTrUZUAAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="https://youkoutaku.github.io/">
+    <img src="https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=rss&logoColor=white" alt="Personal Blog"/>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+</p>
 
 I'm a researcher in **Control Theory & Robotics**, currently completing my Master's at Ibaraki University. 
 
@@ -52,22 +73,22 @@ My mission is to build optimal, safety-critical controllers for multi-robot syst
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youkoutaku&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youkoutaku" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youkoutaku&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youkoutaku&theme=github" />
   <img alt="profile-details" src="profile-details.svg" />
   </picture>
 </p>
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku" />
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=github" />
   <img alt="repos-per-language" src="repos-per-language.svg" />
   </picture>
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youkoutaku&theme=radical&utcOffset=9" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youkoutaku&utcOffset=9" />
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youkoutaku&theme=github_dark&utcOffset=9" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youkoutaku&theme=github&utcOffset=9" />
   <img alt="productive-time" src="productive-time.svg" />
   </picture>
 </div>
@@ -77,10 +98,10 @@ My mission is to build optimal, safety-critical controllers for multi-robot syst
 
 <p align="center">
   <a href="https://wakatime.com/@YouKoutaku">
-     <img align="Youkoutaku's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=radical&custom_title=Youkoutaku's_Coding_Stats&hide=other,Text&layout=compact&show_icons=true"/> 
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=dark&custom_title=Youkoutaku's_Coding_Stats&hide=other,Text&layout=compact&show_icons=true&cache_bust=1#gh-dark-mode-only" alt="WakaTime Stats Dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&custom_title=Youkoutaku's_Coding_Stats&hide=other,Text&layout=compact&show_icons=true&cache_bust=1#gh-light-mode-only" alt="WakaTime Stats Light"/>
   </a>
 </p>
-
 
 ---
 <!--
