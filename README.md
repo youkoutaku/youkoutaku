@@ -81,8 +81,8 @@ My mission is to build optimal, safety-critical controllers for multi-robot syst
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=github" />
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=github_dark&exclude=html" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=github&exclude=html" />
   <img alt="repos-per-language" src="repos-per-language.svg" />
   </picture>
 
