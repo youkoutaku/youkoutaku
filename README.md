@@ -103,7 +103,6 @@ My mission is to build optimal, safety-critical controllers for multi-robot syst
   </a>
 </p>
 
----
 <!--
 - 🔥 Interested in working with Control Systems, Robotics, and Programming.
 - 😄 Hobby:
