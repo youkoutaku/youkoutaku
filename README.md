@@ -50,7 +50,7 @@ My mission is to build optimal, safety-critical controllers for multi-robot syst
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youkoutaku&theme=github_dark"/>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=github_dark&exclude=html,ruby"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=github_dark&exclude=html,ruby&utcOffset=5"/>
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youkoutaku&theme=github_dark&utcOffset=9"/>
 </p>
 
@@ -58,7 +58,7 @@ My mission is to build optimal, safety-critical controllers for multi-robot syst
 
 <p align="center">
   <a href="https://wakatime.com/@YouKoutaku">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=dark&custom_title=Youkoutaku's_Coding_Stats&hide=other,Text&layout=compact&show_icons=true&cache_bust=1#gh-dark-mode-only" alt="WakaTime Stats Dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=github_dark&custom_title=Youkoutaku's%20Coding%20Stats&hide=other,Text&layout=compact&show_icons=true&cache_bust=1#gh-dark-mode-only" alt="WakaTime Stats Dark"/>
   </a>
 </p>
 
