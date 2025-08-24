@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Guang-Ze Yang!
 
-I'm a researcher in **Control Theory & Robotics**, currently completing my Master's at Ibaraki University. 
+I'm a researcher in **Control Theory & Robotics**, currently completing my Master's at Ibaraki University in Japan. 
 
 My mission is to build optimal, safety-critical controllers for multi-robot systems.
 
