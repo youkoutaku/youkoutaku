@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm Guang-Ze Yang!
 
+[![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
+
 I'm a researcher in **Control Theory & Robotics**, currently completing my Master's at Ibaraki University in Japan. 
 
 My mission is to build optimal, safety-critical controllers for multi-robot systems.
