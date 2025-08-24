@@ -49,27 +49,10 @@ My mission is to build optimal, safety-critical controllers for multi-robot syst
 ## Activity
 
 <p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youkoutaku&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youkoutaku&theme=github" />
-  <img alt="profile-details" src="profile-details.svg" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youkoutaku&theme=github_dark"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=github_dark&exclude=html,ruby"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youkoutaku&theme=github_dark&utcOffset=9"/>
 </p>
-
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=github_dark&exclude=html" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=github&exclude=html" />
-  <img alt="repos-per-language" src="repos-per-language.svg" />
-  </picture>
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youkoutaku&theme=github_dark&utcOffset=9" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youkoutaku&theme=github&utcOffset=9" />
-  <img alt="productive-time" src="productive-time.svg" />
-  </picture>
-</div>
-
 
 ## Code time (SINCE OCT 14 2024)
 
