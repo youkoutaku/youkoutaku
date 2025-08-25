@@ -6,7 +6,7 @@ I'm a researcher in **Control Theory & Robotics**, currently completing my Maste
 
 My mission is to build optimal, safety-critical controllers for multi-robot systems.
 
-- I explore my work and insights on my blog, [Young's Notebook](https://youkoutaku.github.io/).
+- I explore my work and insights on my blog, [youkoutaku](https://youkoutaku.github.io/).
 - I will be starting my full-time career in autonomous multi-robot systems research in **April 2026**.
 - Also known as **Grayson Young** (EN) and **楊 広沢 (よう こうたく)** (JP).
 
