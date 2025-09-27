@@ -17,7 +17,7 @@ My mission is to build optimal, safety-critical controllers for multi-robot syst
 ## Research Interests
 - Distributed control of multi-robot systems
 - Optimal & robust control
-- Motion control & path planning
+- Motion control & planning
 
 ## Skills & Knowledge
 - Programming Language: Python, MATLAB, C/C++, Java, JavaScript, HTML & CSS
