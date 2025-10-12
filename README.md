@@ -32,7 +32,7 @@ My mission is to build optimal, safety-critical controllers for multi-robot syst
   - Chinese(Native), English(Academic), Japanese(N1)
 
 ## Publications
-- G. -Z. Yang and Z. -J. Yang, "Safety-Critical Formation Tracking Control of Multi-Robot Systems via CLF-CBF-QP," 2025 International Conference on Advanced Mechatronic Systems (ICAMechS), Xian, China, 2025, pp. 78-83。 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11180981) [[Code]](https://github.com/youkoutaku/hf-clf-cbf-qp)
+- G. -Z. Yang and Z. -J. Yang, "Safety-Critical Formation Tracking Control of Multi-Robot Systems via CLF-CBF-QP," 2025 International Conference on Advanced Mechatronic Systems (ICAMechS), Xian, China, 2025, pp. 78-83. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11180981) [[Code]](https://github.com/youkoutaku/hf-clf-cbf-qp)
 - **G. -Z. Yang** and Z. -J. Yang, "Distributed Robust Time-Varying Formation Control of Multi-Agent Systems Under Disturbances," 2024 SICE Festival with Annual Conference (SICE FES), Kochi City, Japan, 2024, pp. 1000-1005. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10805135) [[Code]](https://github.com/youkoutaku/DR-TVFC)
 
 ## My Philosophy
