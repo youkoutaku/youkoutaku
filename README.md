@@ -57,14 +57,6 @@ My mission is to build optimal, safety-critical controllers for multi-robot syst
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youkoutaku&theme=github_dark&utcOffset=9"/>
 </p>
 
-## Code time (SINCE OCT 14 2024)
-
-<p align="center">
-  <a href="https://wakatime.com/@YouKoutaku">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=github_dark&custom_title=Youkoutaku's%20Coding%20Stats&hide=other,Text&layout=compact&show_icons=true&cache_bust=1#gh-dark-mode-only" alt="WakaTime Stats Dark"/>
-  </a>
-</p>
-
 <!--
 - 🔥 Interested in working with Control Systems, Robotics, and Programming.
 - 😄 Hobby:
