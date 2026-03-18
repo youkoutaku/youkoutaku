@@ -2,22 +2,29 @@
 
 [![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
 
-I'm focusing on **Control Theory & Robotics**, currently completing my Master's at Ibaraki University in Japan. 
+Control Theory | Robotics | Safety-Critical Systems 
 
-My mission is to build optimal, safety-critical controllers for multi-robot systems.
+I am a Master's student in Mechanical Systems Engineering at Ibaraki University, Japan, specializing in **control theory and multi-robot systems**.
 
-- I explore my work and insights on my blog: [Youkoutaku](https://youkoutaku.github.io/).
-- I will be starting my full-time career in autonomous multi-robot systems research in **April 2026**.
-- Also known as **Grayson Young** (EN) and **楊 広沢 (よう こうたく)** (JP).
+My research focuses on **safety-critical and optimal control for autonomous systems**, with an emphasis on bridging theory and real-world robotic applications.
+
+I will join the autonomous systems industry as a full-time researcher in April 2026.
+
+## Research Vision
+
+Design **provably safe, optimal, and scalable controllers** for real-world autonomous systems.
+
+- Safety-critical control (CLF-CBF-QP) | Optimal control | Robust control
+- Distributed & multi-agent systems
+- Nonlinear systems | Robotics | autonomous systems
 
 ## Education
 - 2024.04 – 2026.03: Ibaraki University, M.Eng. in Mechanical Systems Engineering
 - 2020.04 – 2024.03: Ibaraki University, B.Eng. in Mechanical Systems Engineering
 
-## Research Interests
-- Distributed control of multi-robot systems
-- Optimal & robust control
-- Motion control & planning
+## Publications
+- G. -Z. Yang and Z. -J. Yang, "Safety-Critical Formation Tracking Control of Multi-Robot Systems via CLF-CBF-QP," 2025 International Conference on Advanced Mechatronic Systems (ICAMechS), Xian, China, 2025, pp. 78-83. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11180981) [[Code]](https://github.com/youkoutaku/hf-clf-cbf-qp)
+- **G. -Z. Yang** and Z. -J. Yang, "Distributed Robust Time-Varying Formation Control of Multi-Agent Systems Under Disturbances," 2024 SICE Festival with Annual Conference (SICE FES), Kochi City, Japan, 2024, pp. 1000-1005. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10805135) [[Code]](https://github.com/youkoutaku/DR-TVFC)
 
 ## Skills & Knowledge
 - Programming Language: Python, MATLAB, C/C++, Java, JavaScript, HTML & CSS
@@ -28,12 +35,7 @@ My mission is to build optimal, safety-critical controllers for multi-robot syst
   - Robotics: Robotic arms, Quadrotor drones, Wheeled mobile robots
   - AI/ML: Deep learning, Reinforcement learning
 - Documentation: LaTeX, Markdown
-- Language
-  - Chinese(Native), English(Academic), Japanese(N1)
-
-## Publications
-- G. -Z. Yang and Z. -J. Yang, "Safety-Critical Formation Tracking Control of Multi-Robot Systems via CLF-CBF-QP," 2025 International Conference on Advanced Mechatronic Systems (ICAMechS), Xian, China, 2025, pp. 78-83. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11180981) [[Code]](https://github.com/youkoutaku/hf-clf-cbf-qp)
-- **G. -Z. Yang** and Z. -J. Yang, "Distributed Robust Time-Varying Formation Control of Multi-Agent Systems Under Disturbances," 2024 SICE Festival with Annual Conference (SICE FES), Kochi City, Japan, 2024, pp. 1000-1005. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10805135) [[Code]](https://github.com/youkoutaku/DR-TVFC)
+- Language: Chinese(Native), English(Academic), Japanese(N1)
 
 ## My Philosophy
 
