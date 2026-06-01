@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Guang-Ze Yang!
+## 👋 Hi, I'm Yo Kotaku!
+Name: Yo Kotaku (JP) / Guang-Ze Yang (CN)
 
 [![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
 
