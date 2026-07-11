@@ -28,15 +28,16 @@ Design **provably safe, optimal, and scalable controllers** for real-world auton
 - **G. -Z. Yang** and Z. -J. Yang, "Distributed Robust Time-Varying Formation Control of Multi-Agent Systems Under Disturbances," 2024 SICE Festival with Annual Conference (SICE FES), Kochi City, Japan, 2024, pp. 1000-1005. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10805135) [[Code]](https://github.com/youkoutaku/DR-TVFC)
 
 ## Skills & Knowledge
-- Programming Language: Python, MATLAB, C/C++, Java, JavaScript, HTML & CSS
-- Tools: Simulink, ROS1/ROS2, Linux, Docker, Git, Arduino, Raspberry Pi, Solidworks 
+- Programming Language: Python, MATLAB, C/C++, JavaScript, HTML & CSS
+- Tools: Simulink, ROS, Issac Sim, Linux, Docker, Git, Solidworks 
+- Hardware: Arduino, Raspberry Pi
 - Knowledge
   - Mathematics: Matrix analysis, Graph theory, Statistics, Optimization, Fourier and Laplace analysis
-  - Control Theory: Optimal control, Distributed control, Robust control, Kalman filter
+  - Control Theory: Optimal control, Distributed control, Robust control, Kalman filter...
   - Robotics: Robotic arms, Quadrotor drones, Wheeled mobile robots
   - AI/ML: Deep learning, Reinforcement learning
 - Documentation: LaTeX, Markdown
-- Language: Chinese(Native), English(Academic), Japanese(N1)
+- Language: Chinese(Native), English(Academic), Japanese(JLPT N1)
 
 ## My Philosophy
 
