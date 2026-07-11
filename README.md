@@ -52,14 +52,6 @@ Design **provably safe, optimal, and scalable controllers** for real-world auton
 
 > "ある事柄を『知っている』者は、それを『好きだ』という者には及ばない。『好きだ』という者は、それを『楽しんでいる』者には及ばない。"
 
-## Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youkoutaku&theme=github_dark"/>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youkoutaku&theme=github_dark&exclude=html,ruby&utcOffset=5"/>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youkoutaku&theme=github_dark&utcOffset=9"/>
-</p>
-
 <!--
 - 🔥 Interested in working with Control Systems, Robotics, and Programming.
 - 😄 Hobby:
