@@ -1,43 +1,98 @@
-## 👋 Hi, I'm Yo Kotaku!
-Name: Yo Kotaku (JP) / Guang-Ze Yang (CN)
+# 👋 Hi, I'm Yo Kotaku!
 
-[![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
+**Yo Kotaku (JP) / Guang-Ze Yang (CN)**
 
-Control Theory | Robotics | Safety-Critical Systems 
+**Robotics & Control Engineer**  
+**Control Theory × Robot Learning × Physical AI**
 
-I am a Master's student in Mechanical Systems Engineering at Ibaraki University, Japan, specializing in **control theory and multi-robot systems**.
+I am an R&D engineer working on robotics and intelligent control systems in Japan.
 
-My research focuses on **safety-critical and optimal control for autonomous systems**, with an emphasis on bridging theory and real-world robotic applications.
+My background is in **control theory and multi-robot systems**, with research experience in safety-critical control, formation control, and optimization-based control. More recently, I have been expanding my work toward **robot learning, manipulation, perception, simulation, and embodied intelligence**.
 
-I will join the autonomous systems industry as a full-time researcher in April 2026.
+I am particularly interested in building robotic systems that combine:
 
-## Research Vision
+- **Model-based control and optimization**
+- **Robot learning and reinforcement learning**
+- **Motion planning and manipulation**
+- **3D perception and geometric reasoning**
+- **Safety-critical autonomous systems**
+- **Simulation-to-real transfer**
+- **Physical / Embodied AI**
 
-Design **provably safe, optimal, and scalable controllers** for real-world autonomous systems.
+My long-term interest is in bridging **classical control, robotics, and learning-based intelligence** to build autonomous robots that can operate robustly in the physical world.
 
-- Safety-critical control (CLF-CBF-QP) | Optimal control | Robust control
-- Distributed & multi-agent systems
-- Nonlinear systems | Robotics | autonomous systems
+## Research Interests
+
+- Safety-Critical Control
+- CLF / CBF / QP
+- Multi-Robot Systems
+- Robot Manipulation
+- Grasp Generation
+- Robot Learning & Reinforcement Learning
+- Motion Planning
+- 3D Perception
+- Sim-to-Real
+- Physical AI
 
 ## Education
-- 2024.04 – 2026.03: Ibaraki University, M.Eng. in Mechanical Systems Engineering
-- 2020.04 – 2024.03: Ibaraki University, B.Eng. in Mechanical Systems Engineering
+
+- **2024.04 – 2026.03**  
+  M.Eng. in Mechanical Systems Engineering  
+  Ibaraki University, Japan
+
+- **2020.04 – 2024.03**  
+  B.Eng. in Mechanical Systems Engineering  
+  Ibaraki University, Japan
 
 ## Publications
-- G. -Z. Yang and Z. -J. Yang, "Safety-Critical Formation Tracking Control of Multi-Robot Systems via CLF-CBF-QP," 2025 International Conference on Advanced Mechatronic Systems (ICAMechS), Xian, China, 2025, pp. 78-83. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11180981) [[Code]](https://github.com/youkoutaku/hf-clf-cbf-qp)
-- **G. -Z. Yang** and Z. -J. Yang, "Distributed Robust Time-Varying Formation Control of Multi-Agent Systems Under Disturbances," 2024 SICE Festival with Annual Conference (SICE FES), Kochi City, Japan, 2024, pp. 1000-1005. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10805135) [[Code]](https://github.com/youkoutaku/DR-TVFC)
 
-## Skills & Knowledge
-- Programming Language: Python, MATLAB, C/C++, JavaScript, HTML & CSS
-- Tools: Simulink, ROS, Issac Sim, Linux, Docker, Git, Solidworks 
-- Hardware: Arduino, Raspberry Pi
-- Knowledge
-  - Mathematics: Matrix analysis, Graph theory, Statistics, Optimization, Fourier and Laplace analysis
-  - Control Theory: Optimal control, Distributed control, Robust control, Kalman filter...
-  - Robotics: Robotic arms, Quadrotor drones, Wheeled mobile robots
-  - AI/ML: Deep learning, Reinforcement learning
-- Documentation: LaTeX, Markdown
-- Language: Chinese(Native), English(Academic), Japanese(JLPT N1)
+- **G.-Z. Yang** and Z.-J. Yang,  
+  *"Safety-Critical Formation Tracking Control of Multi-Robot Systems via CLF-CBF-QP,"*  
+  2025 International Conference on Advanced Mechatronic Systems (ICAMechS), Xi'an, China, 2025, pp. 78–83.  
+  [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11180981) [[Code]](https://github.com/youkoutaku/hf-clf-cbf-qp)
+
+- **G.-Z. Yang** and Z.-J. Yang,  
+  *"Distributed Robust Time-Varying Formation Control of Multi-Agent Systems Under Disturbances,"*  
+  2024 SICE Festival with Annual Conference (SICE FES), Kochi, Japan, 2024, pp. 1000–1005.  
+  [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10805135) [[Code]](https://github.com/youkoutaku/DR-TVFC)
+
+## Technical Skills
+
+**Programming**
+- Python
+- C / C++
+- MATLAB
+- JavaScript
+- HTML / CSS
+
+**Robotics & Control**
+- ROS / ROS 2
+- MATLAB / Simulink
+- cuRobo / Pinocchio / MoveIt
+- Optimization-based Control
+- Robot Kinematics & Dynamics
+
+**Robot Learning & AI**
+- PyTorch
+- Reinforcement Learning
+- Diffusion Models
+- VLM / VLA
+
+**Simulation**
+- NVIDIA Isaac Sim / Isaac Lab
+- MuJoCo
+- NVIDIA Newton
+
+**Development**
+- Linux
+- Docker
+- CAD / SolidWorks
+
+## Languages
+
+- Chinese — Native
+- Japanese — Professional proficiency
+- English — Academic / Technical communication
 
 ## My Philosophy
 
@@ -52,13 +107,3 @@ Design **provably safe, optimal, and scalable controllers** for real-world auton
 > "To know is not as good as to love; to love is not as good as to delight in."
 
 > "ある事柄を『知っている』者は、それを『好きだ』という者には及ばない。『好きだ』という者は、それを『楽しんでいる』者には及ばない。"
-
-<!--
-- 🔥 Interested in working with Control Systems, Robotics, and Programming.
-- 😄 Hobby:
-  - 💪 Training or running 2~3 times a week
-  - 🏀 Basketball once a week
-  - 📚 Reading (Biography, History, Philosophy, Time Management, Study Skills, ...) 
-  - 🎮 Video games(The Legend of Zelda: Breath of the Wild, Fire Emblem, Monster Hunter Rise, ...)
-  - 🎧 Music (J-pop, R&B, ...)
---!>
