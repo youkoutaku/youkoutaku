@@ -3,11 +3,11 @@
 **Yo Kotaku (JP) / Guang-Ze Yang (CN)**
 
 **Robotics & Control Engineer**  
-**Control Theory × Robot Learning × Physical AI**
+**Control Theory × Robot Learning**
 
 I am an R&D engineer working on robotics and intelligent control systems in Japan.
 
-My background is in **control theory and multi-robot systems**, with research experience in safety-critical control, formation control, and optimization-based control. More recently, I have been expanding my work toward **robot learning, manipulation, perception, simulation, and embodied intelligence**.
+My background is in **control theory and multi-robot systems**, with research experience in safety-critical control, formation control, and optimization-based control. More recently, I have been expanding my work toward **robot learning, manipulation, perception, and simulation**.
 
 I am particularly interested in building robotic systems that combine:
 
@@ -17,22 +17,18 @@ I am particularly interested in building robotic systems that combine:
 - **3D perception and geometric reasoning**
 - **Safety-critical autonomous systems**
 - **Simulation-to-real transfer**
-- **Physical / Embodied AI**
 
-My long-term interest is in bridging **classical control, robotics, and learning-based intelligence** to build autonomous robots that can operate robustly in the physical world.
+My long-term interest is in bridging **modern control, robotics, and learning-based intelligence** to build autonomous robots that can operate robustly in the physical world.
 
 ## Research Interests
 
-- Safety-Critical Control
-- CLF / CBF / QP
+- Safety-Critical Control, CLF / CBF / MPC
 - Multi-Robot Systems
-- Robot Manipulation
-- Grasp Generation
+- Robot Manipulation, Grasp Generation
 - Robot Learning & Reinforcement Learning
 - Motion Planning
 - 3D Perception
 - Sim-to-Real
-- Physical AI
 
 ## Education
 
@@ -58,35 +54,11 @@ My long-term interest is in bridging **classical control, robotics, and learning
 
 ## Technical Skills
 
-**Programming**
-- Python
-- C / C++
-- MATLAB
-- JavaScript
-- HTML / CSS
-
-**Robotics & Control**
-- ROS / ROS 2
-- MATLAB / Simulink
-- cuRobo / Pinocchio / MoveIt
-- Optimization-based Control
-- Robot Kinematics & Dynamics
-
-**Robot Learning & AI**
-- PyTorch
-- Reinforcement Learning
-- Diffusion Models
-- VLM / VLA
-
-**Simulation**
-- NVIDIA Isaac Sim / Isaac Lab
-- MuJoCo
-- NVIDIA Newton
-
-**Development**
-- Linux
-- Docker
-- CAD / SolidWorks
+- Programming: Python, C / C++, MATLAB / Simulink
+- Robotics & Control: ROS / ROS 2, Robot Kinematics & Dynamics
+- Robot Learning & AI (Learning): PyTorch, Reinforcement Learning, Diffusion Models, VLM / VLA
+- Simulation: NVIDIA Isaac Sim / Isaac Lab, MuJoCo, NVIDIA Newton
+- Development: Linux, Docker
 
 ## Languages
 
