@@ -28,10 +28,6 @@ My long-term interest is in bridging **modern control, robotics, and learning-ba
 
 ## Education
 
-- **2024.04 – 2026.03**  
-  M.Eng. in Mechanical Systems Engineering  
-  Ibaraki University, Japan
-
-- **2020.04 – 2024.03**  
-  B.Eng. in Mechanical Systems Engineering  
+- **2020.04 – 2024.03 & 2024.04 – 2026.03**  
+  B & M.Eng. in Mechanical Systems Engineering  
   Ibaraki University, Japan
