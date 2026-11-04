@@ -51,31 +51,3 @@ My long-term interest is in bridging **modern control, robotics, and learning-ba
   *"Distributed Robust Time-Varying Formation Control of Multi-Agent Systems Under Disturbances,"*  
   2024 SICE Festival with Annual Conference (SICE FES), Kochi, Japan, 2024, pp. 1000–1005.  
   [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10805135) [[Code]](https://github.com/youkoutaku/DR-TVFC)
-
-## Technical Skills
-
-- Programming: Python, C / C++, MATLAB / Simulink
-- Robotics & Control: ROS / ROS 2, Robot Kinematics & Dynamics
-- Robot Learning & AI (Learning): PyTorch, Reinforcement Learning, Diffusion Models, VLM / VLA
-- Simulation: NVIDIA Isaac Sim / Isaac Lab, MuJoCo, NVIDIA Newton
-- Development: Linux, Docker
-
-## Languages
-
-- Chinese — Native
-- Japanese — Professional proficiency
-- English — Academic / Technical communication
-
-## My Philosophy
-
-"逆境不吐心中苦，顺时不忘来时路。"
-
-> "Stoic in hardship, humble in success."
-
-> "逆境にあっても心の苦しみを吐き出さず、順境にあっても歩んできた道を忘れない。"
-
-"知之者不如好之者，好之者不如樂之者。" — Confucius
-
-> "To know is not as good as to love; to love is not as good as to delight in."
-
-> "ある事柄を『知っている』者は、それを『好きだ』という者には及ばない。『好きだ』という者は、それを『楽しんでいる』者には及ばない。"
